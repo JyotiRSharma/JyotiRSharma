@@ -17,6 +17,5 @@
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="pytorch" width="40" height="40" /></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="azure" width="40" height="40" /></code>
 
-&nbsp;
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirsharma)](https://github.com/anuraghazra/github-readme-stats)  -->
 <img src="https://github-readme-stats.vercel.app/api//?username=jyotirsharma&theme=" />
