@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at Tech Mahindra
 - 🌱 I’m currently learning JavaScript, React, Python, Machine Learning, Azure
-- 💬 Ask me about trading, meditation, web
+- 💬 Ask me about web, business
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jrsharma11/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Foodie, Musicophile, Bibliophile
