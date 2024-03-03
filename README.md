@@ -1,8 +1,8 @@
 ## Hello World 🙋‍♂️
 
 <!-- **JyotiRSharma/JyotiRSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-- 🔭 I’m currently working at Tech Mahindra
+![](https://komarev.com/ghpvc/?username=jyotirsharma&color=BADA55&abbreviated=true)
+- 🔭 I’m currently working at ValueLabs
 - 🌱 I’m currently learning JavaScript, React, Python, Machine Learning, Azure
 - 💬 Ask me about web, business
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jrsharma11/)
