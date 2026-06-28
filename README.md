@@ -2,8 +2,7 @@
 
 <!-- **JyotiRSharma/JyotiRSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ![](https://komarev.com/ghpvc/?username=jyotirsharma&color=BADA55&abbreviated=true)
-- 🔭 I’m currently working at ValueLabs
-- 🌱 I’m currently learning Typescript, React, Python, Machine Learning, Azure
+- 🔭 I’m currently working at ScottishPower
 - 💬 Ask me about web, business
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jrsharma11/)
 - 😄 Pronouns: He/His
